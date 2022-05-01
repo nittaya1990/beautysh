@@ -32,10 +32,10 @@ types-colorama = "^0.4.3"
 types-setuptools = "^57.4.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.2.5"
-black = "^21.7b0"
-isort = "^5.9.3"
-mypy = "^0.910"
+pytest = "^7.0.0"
+black = "^22.1"
+isort = "^5.10.1"
+mypy = "^0.931"
 flake8 = "^4.0.1"
 
 [tool.pytest.ini_options]
